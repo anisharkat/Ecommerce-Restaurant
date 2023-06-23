@@ -1,0 +1,74 @@
+nav{
+    background-color: white;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    border-radius: 0px;
+}
+
+nav a {
+    color: #ab3550 !important;
+    font-size: 15px;
+    font-weight: bolder !important;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+
+    
+}
+
+
+nav img {
+    max-width: 100%;
+    height: 90%;
+}
+
+/* nav #phone-nav {
+    
+    background-color: #ab3550;
+    box-sizing: border-box;
+    color: white !important;
+}
+
+nav #phone-nav:hover {
+    background-color: #e9315c;
+    color: #ffffff !important;
+    border-radius: 20px;
+    transition: 1s ease;
+    
+    
+} */
+
+
+#phone-nav button {
+    width: auto;
+    height: auto;
+    background-color: #ab3550;
+    text-align: center;
+    border: 1px solid #ab3550;
+    box-sizing: border-box;
+    margin: 20px 10px 20px 0px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#phone-nav button a {
+    color: white !important;
+    font-family:'Tajawal', sans-serif; 
+    text-decoration: none !important;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: .2s ease;
+    padding: 5px;
+
+
+}
+
+
+#phone-nav button a:hover{
+    color: #ab3550 !important;
+}
+
+#phone-nav button:hover {
+    background-color: white;
+
+}

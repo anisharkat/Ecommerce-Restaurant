@@ -1,0 +1,476 @@
+.numbers {
+    background-color: #ab3550;
+    color: white;
+    padding: 25px 0px;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    overflow: hidden;
+    
+}
+
+.numbers .row {
+    margin: 25px 0px;
+}
+
+.numbers h2 {
+    font-size: 45px;
+    font-weight: bold;
+    font-family: 'Tajawal', sans-serif;
+    margin: 10px 0px;
+}
+
+.numbers h6 {
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: white;
+    font-family: 'Tajawal', sans-serif;
+}
+
+
+
+.pride {
+    background-color: transparent;
+    padding: 25px 0px;
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin-top: 60px;
+
+}
+
+.pride {
+    text-align: left;
+}
+
+.pride img{
+    max-width: 100%;
+    border-radius: 20px;
+}
+
+.pride h2{
+    font-size: 40px;
+    font-weight: bold;
+    margin: 50px 0px;
+    color: #43121d;
+    font-family:'Tajawal', sans-serif; 
+    text-align: left;
+    letter-spacing: 1px;
+    width: 90%;
+    line-height: 50px;
+}
+
+.pride p{
+    font-size: 18px;
+    color: #555;
+    font-family:'Tajawal', sans-serif; 
+    text-align: left;
+    letter-spacing: 1px;
+    line-height: 28px;
+    margin-top: 15px;
+}
+
+.pride button {
+    background-color: #ab3550;
+    border: 1px solid #ab3550;
+    box-sizing: border-box;
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.pride button a {
+    color: white;
+    font-family:'Tajawal', sans-serif; 
+    text-decoration: none !important;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: .2s ease;
+
+
+}
+
+
+.pride button a:hover{
+    color: #ab3550;
+}
+
+.pride button:hover {
+    background-color: white;
+
+}
+
+
+.ingredients {
+    margin-top: 50px;
+    max-width: 100%;
+    height: auto;
+    text-align: left;
+    overflow: hidden;
+}
+
+.ingredients img {
+    max-width: 100%;
+    
+}
+
+
+
+
+.ingredients h2 {
+    font-size: 40px;
+    font-weight: bold;
+    margin: 50px 0px;
+    color: #43121d;
+    font-family:'Tajawal', sans-serif; 
+    text-align: left;
+    letter-spacing: 1px;
+    width: 90%;
+    line-height: 50px;
+}
+
+.ingredients p{
+    font-size: 18px;
+    color: #555;
+    font-family:'Tajawal', sans-serif; 
+    text-align: left;
+    letter-spacing: 1px;
+    line-height: 28px;
+    margin-top: 15px;
+}
+
+
+
+
+.ingredients button {
+    background-color: #ab3550;
+    border: 1px solid #ab3550;
+    box-sizing: border-box;
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.ingredients button a {
+    color: white;
+    font-family:'Tajawal', sans-serif; 
+    text-decoration: none !important;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: .2s ease;
+
+
+}
+
+.ingredients ul {
+    padding: 0;
+}
+
+.ingredients ul li {
+    list-style-type: square;
+    list-style: square;
+    font-family: 'Tajwal',sans-serif;
+    color: #555;
+    margin-top: 10px;
+    font-size: 17px;
+    color: #555;
+    letter-spacing: 1px;
+
+}
+
+
+.ingredients button a:hover{
+    color: #ab3550;
+}
+
+.ingredients button:hover {
+    background-color: white;
+
+}
+
+
+.paralex {
+    background: url('./../../assets/1--z7ynKs.jpg')center no-repeat;
+    background-size:cover;
+    width: 100%;
+    height: auto;
+    padding: 30px 0px;
+    text-align: center;   
+    margin-top: 60px;
+    
+}
+
+.paralex h2 {
+    margin-top: 40px;
+    font-family: 'Tajwal',sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+    color: #ab3550;
+    letter-spacing: 1px;
+}
+
+
+.paralex p{
+    font-size: 19px;
+    color: #555;
+    font-family:'Tajawal', sans-serif; 
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+
+.paralex a {
+    text-decoration: none;
+    color: #ab3550;
+    font-weight: bolder;
+    letter-spacing: 0.3px;
+}
+
+
+
+.blogs {
+    margin-top: 60px;
+    padding :25px 0 px;
+    overflow: hidden;
+    width: 100%;
+    height: auto;
+}
+
+.blogs h2 {
+    font-size: 35px;
+    font-weight: bold;
+    margin: 30px 0px;
+    color: #43121d;
+    font-family:'Tajawal', sans-serif; 
+    letter-spacing: 1px;
+    line-height: 50px;
+}
+
+.blogs h6{
+    font-size: 18px;
+    color: #555;
+    font-family:'Tajawal', sans-serif; 
+    letter-spacing: 0.5px;
+    line-height: 28px;
+    margin-top: 10px;
+}
+
+.blogs img {
+    max-width: 100%;
+    border-radius: 15px;
+}
+
+.blogs .box {
+    margin-top: 50px;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+
+.blogs h5 {
+    color: #43121d;
+    text-align: left;
+    margin: 10px;
+    font-weight: bold !important;
+}
+
+.blogs p {
+    text-align: left;
+    color: #555;
+    margin:5px 10px;
+    font-size: 17px;
+}
+
+
+.blogs h4 {
+    text-align: left;
+    margin: 10px;
+    color: #ab3550;
+    font-weight: bold !important;
+}
+
+.blogs button {
+    display: block;
+    margin:  20px 10px;
+    background-color: #ab3550;
+    border: 1px solid #ab3550;
+    box-sizing: border-box;
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    transition: 0.2s ease;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.blogs button a {
+    color: white;
+    font-family:'Tajawal', sans-serif; 
+    text-decoration: none !important;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: .2s ease;
+
+
+}
+
+
+.blogs button a:hover{
+    color: #ab3550;
+}
+
+.blogs button:hover {
+    background-color: white;
+
+}
+
+
+
+.sliders {
+    margin-top: 70px;
+    background-color: #ab3550;
+    width: 100%;
+    max-width: 100%;
+    text-align: center;
+    padding: 50px 0px;
+
+}
+
+.sliders img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 20px 0px;
+    margin-bottom: 200px;
+}
+
+.sliders .carousel-caption {
+    color: #43121d;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.sliders .carousel-caption span {
+    color: #ab3550;
+    display: block;
+    margin: 15px;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+
+.carousel {
+    margin: 40px 0px;
+    background-color: white;
+    border-radius: 30px;
+    border: 1px solid black;
+}
+
+.sliders h2 {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-family: 'Tajawal', sans-serif;
+    letter-spacing: 1px;
+    font-weight: bold;
+
+}
+
+
+.carousel-control-next-icon,.carousel-control-prev-icon {
+    background-color: #ab3550;
+    padding: 20px;
+    border-radius:50% ;
+}
+
+
+
+
+.faq {
+    margin-top: 60px;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+}
+
+.faq h2{
+    margin-bottom: 60px;
+    font-size: 40px;
+    color: #43121d;
+    font-weight: bold;
+}
+
+.faq h3 {
+    font-size: 20px;
+    text-align: left;
+    font-weight: bold !important;
+    font-family: 'Tajawal', sans-serif;
+
+}
+
+.faq h3::first-letter{
+    font-weight: bolder;
+    color: #f98169;
+}
+
+.faq p{
+    text-align: left;
+    font-size: 15.5px ;
+    letter-spacing: 0.5px;
+    color: #555;
+    opacity: 0.9;
+    margin-left: 5px;
+    font-family: 'Tajawal', sans-serif;
+
+
+}
+
+
+
+.passion {
+    background: url('./../../assets/1--z7ynKs.jpg')center no-repeat;
+    background-size:cover;
+    width: 100%;
+    height: auto;
+    padding: 30px 0px;
+    text-align: center;   
+    margin-top: 60px;
+}
+
+.passion h2 {
+    font-family: 'Tajawal', sans-serif;
+    font-weight: bold;
+    color: #43121d;
+    text-align: center;
+    margin: auto;
+
+}

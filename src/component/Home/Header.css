@@ -1,0 +1,65 @@
+header{
+    margin-top: 60px;
+    background :url("./../../assets/3.jpg") center no-repeat ;
+    background-size: cover;
+    width: 100%;
+    text-align: left;
+    height: auto;
+    overflow: hidden;
+    max-width:100%;
+    padding: 25px 0px;
+}
+
+header .row{
+    margin: 60px 0px;
+}
+header h2 {
+    color: #43121d !important;
+    font-size: 55px;
+    line-height: 60px;
+    font-family: 'Tajawal', sans-serif;
+    font-weight: bold;
+    width: 80%;
+}
+
+header p {
+    color: #555555 !important;
+    font-family: 'Tajawal', sans-serif;
+    margin: 15px 0px;
+    font-size: 19px;
+    letter-spacing: 1px;
+}
+
+header button {
+    width: 150px;
+    height: 50px;
+    background-color: #ab3550;
+    text-align: center;
+    color: white;
+    border: 1px solid #ab3550;
+    box-sizing: border-box;
+    margin:20px 10px 20px 0px ;
+    font-weight: bold;
+    text-transform: uppercase;
+
+}
+
+header button:last-of-type {
+    background-color: #fff;
+    color: #43121d;
+}
+
+header button:hover {
+    transition: .2s ease-in-out;
+}
+
+header button:first-of-type:hover {
+    background-color: white;
+    color: #ab3550;
+}
+
+header button:last-of-type:hover {
+    background-color: #ab3550;
+    color: white;
+}
+
